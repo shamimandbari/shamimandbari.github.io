@@ -9,7 +9,7 @@
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
   /* IE 5-7 */
   filter: alpha(opacity=80);
-  opacity: 0.8;
+  opacity: 0.99;
 }
 
 .full-screen-slider img {
