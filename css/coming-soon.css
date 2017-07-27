@@ -120,9 +120,9 @@ input:focus:required:invalid:focus {
 .transparent {
   background-color: white;
   /* IE 8 support */
-  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
   /* IE 5-7 */
-  filter: alpha(opacity=50);
-  opacity: 0.5;
+  filter: alpha(opacity=80);
+  opacity: 0.8;
 }
 /**************** Helpers end ***********/
